@@ -1,0 +1,17 @@
+{
+    "name": "nasution/laravel-implicit-routes",
+    "description": "Laravel implicit routes, very similar like CodeIgniter.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mulia Arifandi Nasution",
+            "email": "mul14.net@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Nasution\\ImplicitRoutes\\": "src/"
+        }
+    },
+    "require": {}
+}
